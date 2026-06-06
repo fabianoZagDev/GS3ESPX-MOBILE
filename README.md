@@ -12,7 +12,7 @@ Aplicativo mobile desenvolvido em React Native + Expo SDK 55 + TypeScript para a
 >
 > Toda noite, 130 milhões de fragmentos cruzam a órbita a 28.000 km/h. Nós decidimos fazer algo a respeito — e queremos te mostrar como.
 >
-> ### ▶️ **[CLIQUE AQUI E ASSISTA AO PITCH DA MEND »](LINK-DO-PITCH-AQUI)**
+> ### ▶️ **[CLIQUE AQUI E ASSISTA AO PITCH DA MEND »](https://www.youtube.com/watch?v=_MjGn6lEQS0)**
 >
 > *Sem spoilers. Só aperta o play e deixa a gente te levar até a órbita baixa.* 🛰️
 
@@ -229,9 +229,9 @@ Escaneie o QR code com o app **Expo Go** no seu celular.
 
 | Início | Rastreamento | Missões | Configurações |
 |:------:|:------------:|:-------:|:-------------:|
-| <img src="assets/prints_tela/inicio.png" width="200"/> | <img src="assets/prints_tela/rastreamento.png" width="200"/> | <img src="assets/prints_tela/missoes.png" width="200"/> | <img src="assets/prints_tela/configuracoes.png" width="200"/> |
+| <img src="MendApp/assets/prints_tela/inicio.png" width="200"/> | <img src="MendApp/assets/prints_tela/rastreamento.png" width="200"/> | <img src="MendApp/assets/prints_tela/missoes.png" width="200"/> | <img src="MendApp/assets/prints_tela/configuracoes.png" width="200"/> |
 
-🎥 **Pitch / demo em vídeo:** [assista aqui](LINK-DO-PITCH-AQUI)
+🎥 **Pitch em vídeo:** [assista aqui](https://www.youtube.com/watch?v=_MjGn6lEQS0)
 
 ---
 
